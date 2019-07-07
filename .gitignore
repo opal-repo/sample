@@ -1,0 +1,26 @@
+# Eclipse
+
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.metadata/
+
+
+# Intellij
+.idea
+*.iml
+*.iws
+
+/target/
+
+
+# Mac
+.DS_store
+
+# Maven
+log/
+target/
+build/
+

@@ -13,9 +13,6 @@ public class App
 
         System.out.println( "Hello World!" + sergey());
         System.out.println( "Hello World!" );
-
-        //one one one
-  
         //ira commit
         //Commited from Vitaly to feature
     }

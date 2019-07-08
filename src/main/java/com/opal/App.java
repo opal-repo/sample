@@ -10,5 +10,15 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Print for users/Rafael!" );
+
+        System.out.println( "Hello World!" + sergey());
+        System.out.println( "Hello World!" );
+
+        //one one one
+  
+        //ira commit
+        //Commited from Vitaly to feature
     }
+
+    public static String sergey(){return new String(" Sergey");}
 }

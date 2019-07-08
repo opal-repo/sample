@@ -15,6 +15,7 @@ public class App
         System.out.println( "Hello World!" );
         //ira commit
         //Commited from Vitaly to feature
+        //Hello World
     }
 
     public static String sergey(){return new String(" Sergey");}
